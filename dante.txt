@@ -1,1 +1,2 @@
 DANTE Automation is running for 5G FR2 Test cases.
+FR1 and FR2 has been included for the test cases
